@@ -34,5 +34,10 @@ I am a passionate developer who loves building scalable, user-centric web applic
 
 ---
 
+### 📫 Connect with me:
+- **Email:** sohe.4273@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/sohel715/)
+- **WhatsApp:** https://wa.me/8801580919769
+
 
 *"Code is like humor. When you have to explain it, it’s bad."*
