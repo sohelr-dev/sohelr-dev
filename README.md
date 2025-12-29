@@ -1,4 +1,4 @@
-<img src="mes1.png">
+<img src="me.png">
 <br>
 
 # Hi there, I'm Sohel! 👋 
