@@ -24,7 +24,7 @@ I am a passionate developer who loves building scalable, user-centric web applic
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 - ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
 
 ---
 
@@ -33,6 +33,11 @@ I am a passionate developer who loves building scalable, user-centric web applic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelr-dev&layout=compact&theme=radical&hide_border=true)
 
 ---
+
+### 📫 Connect with me:
+- **Email:** sohe.4273@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/sohel715/)
+- **WhatsApp:** https://wa.me/8801580919769
 
 
 *"Code is like humor. When you have to explain it, it’s bad."*
